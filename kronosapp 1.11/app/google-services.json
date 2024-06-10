@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603056530171",
+    "project_id": "kronostest-6f0e7",
+    "storage_bucket": "kronostest-6f0e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603056530171:android:26861091a03b3d691b865e",
+        "android_client_info": {
+          "package_name": "za.varsitycollege.kronosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm3EGMNpMpDhdD27U1nM-oZFTpJOGqPBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
