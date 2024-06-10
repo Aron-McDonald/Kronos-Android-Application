@@ -2,6 +2,9 @@
 
 Kronos is a sophisticated time-keeping Android application designed to help users track and manage their timesheet entries effectively. It allows users to set daily goals and analyze time spent on different categories, enhancing productivity and time management.
 
+## Youtube link
+https://youtu.be/5phRsP59RGI
+
 ## Features
 
 - User Authentication: Secure login functionality using username and password.
